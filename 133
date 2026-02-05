@@ -1,0 +1,50 @@
+var C
+= window.prompt("Enter ("Enter the bilber);
+var B = window.prompt ("Enter one more number:");
+var 0 = window.prompt("...and the last ore:);
+if(C < B && C < O)(
+document. write("The minimum number 1s * + C + "‹br»");
+if(B
+< С && в < 0)(
+document.write("The minimum number is * + B + *<br›");
+if(0
+&&
+B)
+document. write("The minimum number 1s
+* + 0 +
+"<bry");
+ifC =- B &&
+B
+I
+document write("Equality rules! Yay!" + "<br»");
+elsef
+document write("Hey that's classicism: (* + "<br>");
+var month - window.prompt("Enter the number of a month: ");
+1f(month == 12  month == 1  month = 2){
+document-write("That's winter" + "<br›");
+if (month = 3  month -= 4  month == 5)(
+document write("That's spring" + "<br>");
+if(month == 6  month =- 7  month =- 8)( document write("That's summer" + "<br>");
+1f(month -- 9  month =- 18  month -- 11)( document write("That's autumn" + "<br>");
+if(month ‹ 1 || month > 12){
+document write("The number of a month is incorrect" + "<br›");
+var year - window.prompt("Enter the year: ");
+1f(year % 4 == e 88 year % 100 = e || year * 400 - 0Ж document write("The year is leap" + "<br>");
+document write("The year is not leap" + "<br>");
+var month - window prompt("Enter the month: ");
+1f(month1 -- 1  month1 =- 3  month =- 5  month •• 7  month *= 8 || month document.write("That month has 31 day" + "<br>");
+}
+elsef
+document.write("The year is not leap" + "<br›");
+var month1. - window.prompt("Enter the month:");
+if(month1 == 1 || month1 -- 3 || month1 =- 5 || month1 =- 7 || month1 •- 8 || month == 10 || month1 == 12)(
+document.write("That month has 31 day" + "<br>");
+if(month1 == 4 || month1 = 6 || month1 == 9 || month1 = 11)(
+document.write("That month has 30 days* +
+*‹br>");
+}
+if(month1 = 2 && year % 4 == e && year % 100 l- e || year % 408 = eX
+document.write("That month has 29 days" + "<br›");
+elsef
+document.write("That month has 28 days" + "<br›");
+}
